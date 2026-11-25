@@ -1,5 +1,7 @@
 *.txt
 *.json
 *.py
+*.log
+*.csv
 __pycache__/
 inceptionv3/
